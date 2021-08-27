@@ -13,6 +13,8 @@
 
 #define CFG_FILENAME "dfnet.cfg"
 
+Config conf;
+
 void SaveConf() {
 	FILE *f;
 

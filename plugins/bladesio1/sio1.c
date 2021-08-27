@@ -55,8 +55,6 @@ static const unsigned char build	= 1;
 
 static void (CALLBACK *irqCallback)() = 0;
 
-Settings settings;
-
 /* sio status flags.
  */
 enum {
