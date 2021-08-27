@@ -30,6 +30,7 @@
 find_package(PkgConfig)
 
 set(Pango_DEPS
+  HarfBuzz
   GLib)
 
 if(PKG_CONFIG_FOUND)
