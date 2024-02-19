@@ -1,6 +1,10 @@
 PCSX-Reloaded
 -------------------------------
 
+**This fork has two pull requests for
+  https://github.com/iCatButler/pcsxr merged in so this will compile
+  on Debian 12.**
+
 PCSX-Reloaded is a forked version of the dead PCSX emulator, with a nicer
 interface and several improvements to stability and functionality.
 
